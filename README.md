@@ -1,3 +1,2 @@
-# autoussd_sample_flutter
+# flutter ussd
 
-Sample Flutter template for getting started with the AutoUssd Flutter plugin
